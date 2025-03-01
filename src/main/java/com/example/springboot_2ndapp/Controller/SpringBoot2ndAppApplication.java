@@ -1,4 +1,4 @@
-package com.example.springboot_2ndapp;
+package com.example.springboot_2ndapp.Controller;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
